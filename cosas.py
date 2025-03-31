@@ -10,7 +10,7 @@ random.seed(42)
 num_players = 10000
 num_scores = 50000
 num_reviews = 30000
-
+ 
 # Juegos basados en títulos reales (75 únicos)
 game_titles = [
     "The Legend of Zelda", "Super Mario Bros.", "Minecraft", "Fortnite", "Call of Duty",
