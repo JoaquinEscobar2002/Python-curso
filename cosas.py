@@ -5,7 +5,7 @@ from faker import Faker
 
 fake = Faker()
 random.seed(42)
-
+ 
 # Cantidad de registros
 num_players = 10000
 num_scores = 50000
